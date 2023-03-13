@@ -9,7 +9,7 @@ body {
 }
 
 .circle {
-    background: red;
+    background: rgb(255, 0, 0);
     color: aliceblue;
     padding: 5px 20px;
     border-radius: 50%;
