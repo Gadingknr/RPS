@@ -18,7 +18,7 @@ Does the user's choose win,lose, or tie vs ROCK? */
     if (user === 'scissors') {
         result = "lose";
       }
-    var theMessage = "Computer cjose rock, you " + result + "!"
+    var theMessage = "Computer chose rock, you " + result + "!"
     alert(theMessage);
     say(theMessage);
   }
