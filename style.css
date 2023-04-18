@@ -11,7 +11,7 @@ body {
 
 .circle {
     background: rgb(255, 0, 0);
-    color: rgb(1, 238, 206);
+    color: lightgray;
     padding: 5px 20px;
     border-radius: 50%;
     font-size: 65px;
